@@ -1,0 +1,2 @@
+sitemap: http://a7539.hostedsitemaps.com/31749/sitemap.xml
+sitemap: http://a7539.hostedsitemaps.com/31749/sitemap_video.xml

@@ -1,0 +1,234 @@
+<sources>
+    <source name='Sync.ca'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sync.gif</image>
+        <link>http://sync.ca</link>
+    </source>
+    <source name='News Canada Digital'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/newscanada.gif</image>
+        <link></link>
+    </source>
+    <source name='Jokeroo'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/jokeroo.gif</image>
+        <link></link>
+    </source>
+    <source name='Business News Network'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/bnn.gif</image>
+        <link>http://www.bnn.ca</link>
+    </source>
+	    <source name='BNN'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/bnn.gif</image>
+        <link>http://www.bnn.ca</link>
+    </source>
+    <source name='WatchMojo'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/watchmojo.gif</image>
+        <link></link>
+    </source>
+    <source name='Sympatico.ca'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sympaticoca.gif</image>
+        <link>http://sympatico.ca</link>
+    </source>
+    <source name='inMovies.ca'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/inmovies.gif</image>
+        <link>http://inmovies.ca</link>
+    </source>
+    <source name='Push.ca'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/push.gif</image>
+        <link>http://push.ca</link>
+    </source>
+    <source name='inMusic.ca'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/inmusicca.jpg</image>
+        <link>http://inmusic.ca</link>
+    </source>
+	<source name='inMusic'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/inmusicca.jpg</image>
+        <link>http://inmusic.ca</link>
+    </source>
+    <source name='enMusique.ca'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/enmusiqueca.jpg</image>
+        <link>http://enmusique.ca</link>
+    </source>
+    <source name='Orange'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/inmusicca.jpg</image>
+        <link>http://inmusic.ca</link>
+    </source>
+    <source name='Butterscotch'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sync.gif</image>
+        <link></link>
+    </source>
+    <source name='Digital Trends'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sync.gif</image>
+        <link></link>
+    </source>
+    <source name='Discovery Channel'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sync.gif</image>
+        <link>http://www.discoverychannel.ca/</link>
+    </source>
+    <source name='Sync'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sync.gif</image>
+        <link>http://sync.ca</link>
+    </source>
+    <source name='Connected Life'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sync.gif</image>
+        <link></link>
+    </source>
+    <source name='CTVNews.ca'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/ctvnews.gif</image>
+        <link>http://www.ctvnews.ca/</link>
+    </source>
+	    <source name='CTV.ca'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/ctvca.gif</image>
+        <link>http://ctv.ca</link>
+    </source>
+    <source name='CBC'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/cbc.gif</image>
+        <link></link>
+    </source>
+    <source name='Associated Press'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/ap.gif</image>
+        <link></link>
+    </source>
+    <source name='UFC'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/ufc.gif</image>
+        <link></link>
+    </source>
+    <source name='WEC'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/ufc.gif</image>
+        <link></link>
+    </source>
+    <source name='etalk'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/etalk.jpg</image>
+        <link>http://www.ctv.ca/entertainment/</link>
+    </source>
+    <source name='Splash'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/splash.gif</image>
+        <link></link>
+    </source>
+    <source name='Canadian Press'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/cp.gif</image>
+        <link></link>
+    </source>
+    <source name='Bell'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/bell.gif</image>
+        <link></link>
+    </source>
+	<source name='Bourse24.TV'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/NYFP_Finances_FR.jpg</image>
+        <link></link>
+    </source>
+	<source name='BusinessCenter.TV'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/nyfp.gif</image>
+        <link></link>
+    </source>
+	<source name='NYFP.TV'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/nyfp.gif</image>
+        <link></link>
+    </source>
+	<source name='vtele'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/logo_vtele.png</image>
+        <link></link>
+    </source>
+	<source name='noscanadiens'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/noscan_logo_vid.png</image>
+        <link></link>
+    </source>
+	<source name='Split Decision'>
+        <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/splitdecision.gif</image>
+        <link>http://sports.sympatico.ca/mma</link>
+    </source>
+	<source name='TV Guide'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/tvguide.gif</image>
+        <link>http://tvguide.ca</link>
+    </source>
+	<source name='Fashionism.ca'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/fashionism.gif</image>
+        <link>http://fashionism.ca</link>
+    </source>
+	<source name='PopSugar TV'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/popsugartv.gif</image>
+        <link>http://www.popsugar.tv/</link>
+    </source>
+	<source name='Pound for Pound'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/pound4pound.gif</image>
+        <link>http://sports.sympatico.ca/mma</link>
+    </source>
+	<source name='CNW'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/cnw.gif</image>
+        <link></link>
+    </source>
+	<source name='AFP'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/afp.gif</image>
+        <link></link>
+    </source>
+	<source name='SRC'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/logo_Radio-Canada_270x30.jpg</image>
+        <link></link>
+    </source>
+	<source name='Sympatico.ca Autos'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sympaticoautos.gif</image>
+        <link>http://autos.symaptico.ca</link>
+    </source>
+	<source name='Neighbourhood Mechanic'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sympaticoautos.gif</image>
+        <link>http://autos.symaptico.ca</link>
+    </source>
+	<source name='Canadian Living'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/canadianliving.gif</image>
+        <link></link>
+    </source>
+	<source name='Sponsored by Ford'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/ford.gif</image>
+        <link></link>
+    </source>
+	<source name='Propulse par'>
+		 <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/ford.gif</image>
+        <link></link>
+    </source>
+	<source name='Sympatico.ca Sports'>
+		<image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sympaticoca.gif</image>
+        <link>http://sports.sympatico.ca</link>
+    </source>
+		<source name='Ricardo'>
+		<image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/ricardo.jpg</image>
+        <link>http://lifestyle.sympatico.ca/FoodandEntertaining/Ricardo/ricardo_index</link>
+    </source>
+		<source name='Sympatico.ca Lifestyle'>
+		<image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sympaticoca.gif</image>
+        <link>http://lifestyle.sympatico.ca</link>
+    </source>
+    <source name='TV5'>
+      <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/tv5.jpg</image>
+      <link></link>
+    </source>
+    <source name='YourMoney.ca'>
+      <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/sympaticoca.gif</image>
+      <link>http://yourmoney.ca</link>
+    </source>
+	<source name='FabSugarTV'>
+      <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/fabsugar.gif</image>
+      <link></link>
+    </source>
+	<source name='BellaSugarTV'>
+      <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/bellasugar.gif</image>
+      <link></link>
+    </source>
+	<source name='FitSugarTV'>
+      <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/fitsugar.gif</image>
+      <link></link>
+    </source>
+	<source name='YumSugarTV'>
+      <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/yumsugar.gif</image>
+      <link></link>
+    </source>
+		<source name='CelebEdge.ca'>
+      <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/celebedge.gif</image>
+      <link>http://celebedge.ca</link>
+    </source>
+		<source name='Celebedge.ca'>
+      <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/celebedge.gif</image>
+      <link>http://celebedge.ca</link>
+    </source>
+		<source name='Canada AM'>
+      <image>http://bellca.vo.llnwd.net/e1/bellinet/brightcove/sources/canadaam.gif</image>
+      <link>http://canadaam.ctvnews.ca/</link>
+    </source>
+</sources>
